@@ -1,4 +1,4 @@
-# Restaurant Food Order Theme
+H# Restaurant Food Order Theme
 This is a Restaurant Theme Website Template, designed using html and css. It was developed while teaching "Responsive Web Design Course".
 
 ## Technologies Used
@@ -13,4 +13,4 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 4. **order.html** - Page to Order Selected Food
 5. **category_foods.html** - Page to list all the Foods based on Category Selected
 6. **food_search.html** - Page to list all the Foods based on Search keyword
- updating
+ update 
